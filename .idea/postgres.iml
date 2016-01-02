@@ -136,6 +136,9 @@
     <orderEntry type="library" scope="PROVIDED" name="bundler (v1.10.5, RVM: ruby-2.0.0-p598) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="byebug (v8.2.1, RVM: ruby-2.0.0-p598) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="capistrano (v3.4.0, RVM: ruby-2.0.0-p598) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="capistrano-bundler (v1.1.4, RVM: ruby-2.0.0-p598) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="capistrano-rails (v1.1.5, RVM: ruby-2.0.0-p598) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="capistrano-rbenv (v2.0.3, RVM: ruby-2.0.0-p598) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="coffee-rails (v4.1.1, RVM: ruby-2.0.0-p598) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="coffee-script (v2.4.1, RVM: ruby-2.0.0-p598) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="coffee-script-source (v1.10.0, RVM: ruby-2.0.0-p598) [gem]" level="application" />
